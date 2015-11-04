@@ -35,10 +35,10 @@ Homework
 ----------
 Create a web aspi app that allows a client to list all Posts via an API.
 
-GET /posts to return all posts
-GET /posts/:id gives details of a post
-POST /posts creates a post
-PUT /posts/:id updates a post
+1. GET /posts to return all posts
+1. GET /posts/:id gives details of a post
+1. POST /posts creates a post
+1. PUT /posts/:id updates a post
 DELETE /posts/:id deletes a post
 
 Test your apps using [Postman](https://www.getpostman.com/)
